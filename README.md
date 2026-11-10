@@ -8,6 +8,7 @@ The file Simulation_R_Code.R is the main file for running the Monte Carlo simula
 - Running the Monte Carlo simulation
 - Compiling the results
 - Generating the images and tables to analyze the results
+  
 Thus, anyone wishing to reproduce the complete results should use this code.
 
 The paper notes that this simulation was ran several times with different seeds. These seeds were 123, 13, and 6098. 
